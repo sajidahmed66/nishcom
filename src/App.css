@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.banner{
+    min-height: 70vh; 
+    background-image: url('./assets/images/banner02.jpg');
+}
+
+.text-shadow{
+    
+        text-shadow: 2px 2px #020202;
+      
+}
